@@ -26,7 +26,8 @@ public class TheGoodGuys {
 	 
 	 WebElement btnclick1 = driver.findElement(By.id("searchBoxText"));
 	 btnclick1.click();
-	 
+	  System.out.println("add branch name");
+	  System.out.println("add repository");
 	 
 	}
 
